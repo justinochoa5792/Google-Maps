@@ -1,0 +1,9 @@
+#map {
+  height: 70vh;
+  width: 80vw;
+}
+
+h1,
+p {
+  text-align: center;
+}
